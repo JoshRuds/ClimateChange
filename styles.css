@@ -1,0 +1,9 @@
+html {
+    font-family: 'Rubik', sans-serif;
+    cursor: url("/cursor.ico"), auto;
+    text-align: center;
+}
+
+button {
+    border-radius: 90;
+}
